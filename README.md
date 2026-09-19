@@ -14,7 +14,7 @@ I’m have a deep passion on **architecture, developing, clean code and building
     <img src="https://img.shields.io/badge/GitHub-LUCASGCLIMA-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/llucasv2_">
-    <img src="https://img.shields.io/badge/Instagram-@LLUCASV2_-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
+    <img src="https://img.shields.io/badge/Instagram-@LLUCASV2-E4405F?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
 </p>
 
